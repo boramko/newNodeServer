@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/bin
+
+#pakcage-lock.json
+pakcage.json
